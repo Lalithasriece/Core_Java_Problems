@@ -17,7 +17,10 @@ else{
     System.out.println("Not an Armstrong Number");
 }
 
-
+/*OUTPUT:
+Enter the number:
+153
+It is an Armstrong Number */
 
 
 
